@@ -1,2 +1,2 @@
 # paper_everyday
-mark the reaeded paper eceryday 
+mark the annotated paper everyday 
